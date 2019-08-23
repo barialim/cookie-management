@@ -44,4 +44,4 @@ To execute a publication application packaged as a fat jar
 http://localhost:8444/spike/swagger-ui.html 
 
 ## Sequence Diagram ##
-![alt text](../etc/docs/images/cookie-management-sequence-diagram.png "Cookie Management Sequence Diagram")
+![alt text](../etc/docs/images/cookie-management-sequance-diagram.png "Cookie Management Sequence Diagram")
