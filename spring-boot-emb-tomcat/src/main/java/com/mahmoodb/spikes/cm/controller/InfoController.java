@@ -1,6 +1,6 @@
-package com.mahmoodb.spikes.cm.emb.controller;
+package com.mahmoodb.spikes.cm.controller;
 
-import com.mahmoodb.spikes.cm.emb.model.Info;
+import com.mahmoodb.spikes.cm.model.Info;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiResponse;

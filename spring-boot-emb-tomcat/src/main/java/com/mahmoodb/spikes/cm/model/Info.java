@@ -1,4 +1,4 @@
-package com.mahmoodb.spikes.cm.emb.model;
+package com.mahmoodb.spikes.cm.model;
 
 public class Info {
     private String name, version;

@@ -1,4 +1,4 @@
-package com.mahmoodb.spikes.cm.emb;
+package com.mahmoodb.spikes.cm;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
