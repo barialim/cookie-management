@@ -1,0 +1,10 @@
+.idea/
+.vertx/
+target/
+*/logs
+*.iml
+*.log
+.settings
+.classpath
+.project
+.gitignore
