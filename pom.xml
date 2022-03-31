@@ -17,7 +17,7 @@
     </parent>
 
     <properties>
-        <spring.boot.version>2.0.0.RELEASE</spring.boot.version>
+        <spring.boot.version>2.5.12</spring.boot.version>
         <swagger.version>2.9.2</swagger.version>
         <jre.version>1.8</jre.version>
         <ubs.research.common.version>2.27.0</ubs.research.common.version>
